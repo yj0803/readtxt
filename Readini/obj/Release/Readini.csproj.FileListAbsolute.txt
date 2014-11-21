@@ -1,0 +1,5 @@
+D:\Doug\Readini\Readini\bin\Release\Readini.dll
+D:\Doug\Readini\Readini\bin\Release\Readini.pdb
+D:\Doug\Readini\Readini\obj\Release\Readini.csprojResolveAssemblyReference.cache
+D:\Doug\Readini\Readini\obj\Release\Readini.dll
+D:\Doug\Readini\Readini\obj\Release\Readini.pdb
